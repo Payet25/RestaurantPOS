@@ -1,0 +1,17 @@
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\bin\Debug\net6.0-windows\RestaurantPOS.exe
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\bin\Debug\net6.0-windows\RestaurantPOS.deps.json
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\bin\Debug\net6.0-windows\RestaurantPOS.runtimeconfig.json
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\bin\Debug\net6.0-windows\RestaurantPOS.dll
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\bin\Debug\net6.0-windows\RestaurantPOS.pdb
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.csproj.AssemblyReference.cache
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.Form1.resources
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.csproj.GenerateResource.cache
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.AssemblyInfoInputs.cache
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.AssemblyInfo.cs
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.csproj.CoreCompileInputs.cache
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.dll
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\refint\RestaurantPOS.dll
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.pdb
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\RestaurantPOS.genruntimeconfig.cache
+C:\Users\genet\source\repos\RestaurantPOS\RestaurantPOS\obj\Debug\net6.0-windows\ref\RestaurantPOS.dll
